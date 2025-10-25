@@ -60,8 +60,9 @@ Você deseja gerar outro conjunto de números? (S/N):
 
 ```
 gerador_sequencial/
-├── gerador_sequencial.bat    # Script principal
-└── README.md                  # Este arquivo
+├── gerador_sequencial.bat     # Script principal
+├── README.md                  # Este arquivo
+└── LICENSE                    # Licença MIT
 ```
 
 ## Detalhes Técnicos
